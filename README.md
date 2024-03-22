@@ -7,10 +7,10 @@ Vigenère şifrelemesi, Polyalphabetik bir şifreleme yöntemidir. Şifrelenmiş
 
 Vigenère şifrelemesi, bir metni anahtar kelime veya cümleyle şifrelemek için kullanılır. Her harf, anahtar kelimenin karakterlerine göre farklı kaydırma miktarlarıyla şifrelenir.
 
-Örneğin, `ANAHTAR` anahtar kelimesini kullanarak şifreleme işlemi yapalım:
+Örneğin, `LEMON` anahtar kelimesini kullanarak şifreleme işlemi yapalım:
 
-Metin : `MERHABA` <br>
-Anahtar : `ANAHTAR`
+Metin : `ATTACKATDAWN` <br>
+Anahtar : `LEMON`
 
    - Metnin her harfi, sırasıyla anahtar kelimenin karakterlerine göre birer birer şifrelenir.
    - Anahtar kelime boyunca bir döngü yapılır ve her harf için bir kaydırma miktarı belirlenir.
@@ -19,14 +19,15 @@ Anahtar : `ANAHTAR`
 Örnek:
     
 
-    Metin:    M  E  R  H  A  B  A
-    Anahtar:  A  N  A  H  T  A  R
-    Şifreli:  M  F  W  S  H  D  W
+    Metin:    A  T  T  A  C  K  A  T  D  A  W  N 
+    Anahtar:  L  E  M  O  N  L  E  M  O  N  L  E
+    Şifreli:  L  X  F  O  P  V  E  F  R  N  H  R
 
-Bu şekilde, `MERHABA` metni `MFWSHDW` olarak şifrelenmiş olur.
-Şifreleme Tablosu
+Bu şekilde, `ATTACKATDAWN` metni `LXFOPVEFRNHR` olarak şifrelenmiş olur. <br>
 
-Aşağıdaki şifreleme tablosu, Vigenère şifrelemesinde karakterlerin birbirine karşılık geldiği bir referans sunar:
+<h1>Şifreleme Tablosu</h1>
+
+<b> Aşağıdaki şifreleme tablosu, Vigenère şifrelemesinde karakterlerin birbirine karşılık geldiği bir referans sunar: </b>
 
 |   | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** | **I** | **J** | **K** | **L** | **M** | **N** | **O** | **P** | **Q** | **R** | **S** | **T** | **U** | **V** | **W** | **X** | **Y** | **Z** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
