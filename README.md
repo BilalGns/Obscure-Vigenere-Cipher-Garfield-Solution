@@ -59,3 +59,15 @@ Aşağıdaki şifreleme tablosu, Vigenère şifrelemesinde karakterlerin birbiri
 
 
 Bu tablo, her bir karakterin diğer karakterlerle nasıl şifrelendiğini göstermektedir. Bu bilgiyi kullanarak şifreleme işlemi gerçekleştirilebilir.
+
+<h1> Burada vigenere şifresi kullanılarak şifrelenmiş bir metin ve anahtarı bulunmaktadır. </h1>
+<img src="https://github.com/BilalGns/Obscure-Vigenere-Cipher-Garfield-Solution/blob/main/garfield.jpeg" width="340" height="540">
+
+Metin : `IjgJUO{P_LOUV_AIRUS_GYQUTOLTD_SKRFB_TWNKCFT}` <br>
+Anahtar : `07271978`
+
+<h1>👇 Otomatize çözümleri için bakabilirsiniz 👇</h1>
+
+- **[Python ile çözümü](https://github.com/BilalGns/Obscure-Vigenere-Cipher-Garfield-Solution/blob/main/Solutions/solution.py)** 
+- **[C ile çözümü](https://github.com/BilalGns/Obscure-Vigenere-Cipher-Garfield-Solution/blob/main/Solutions/solution.c)**
+- **[C ile çözümü .txt dosyası olmadan](https://github.com/BilalGns/Obscure-Vigenere-Cipher-Garfield-Solution/blob/main/Solutions/solution-nofile.c)**
