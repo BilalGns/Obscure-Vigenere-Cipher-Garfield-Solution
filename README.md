@@ -1,4 +1,4 @@
-# Obscure-Vigenere-Cipher-Garfield-Solution
+# :octocat: Obscure-Vigenere-Cipher-Garfield-Solution :octocat:
 
 <h1> Vigenère Şifreleme </h1>
 
@@ -72,3 +72,22 @@ Anahtar : `07271978`
 - **[Python ile çözümü](https://github.com/BilalGns/Obscure-Vigenere-Cipher-Garfield-Solution/blob/main/Solutions/solution.py)** 
 - **[C ile çözümü](https://github.com/BilalGns/Obscure-Vigenere-Cipher-Garfield-Solution/blob/main/Solutions/solution.c)**
 - **[C ile çözümü .txt dosyası olmadan](https://github.com/BilalGns/Obscure-Vigenere-Cipher-Garfield-Solution/blob/main/Solutions/solution-nofile.c)**
+
+<div align="center">
+<h3 align="center">Visitor Count </h3> 
+
+![Visitor Count](https://profile-counter.glitch.me/BilalGns/count.svg) 
+
+ </div>
+
+
+
+<h1 align="Center">Connect with me 📫</h1>  
+<p align="center">
+   <a href="mailto:bilalgunes.dev@gmail.com" target="blank">
+      <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" style="height: 4rem"/>
+   </a>
+   <a href="https://www.linkedin.com/in/b1lalgunes/" target="blank">
+      <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" style="height: 4rem"/>
+   </a>
+</p>
